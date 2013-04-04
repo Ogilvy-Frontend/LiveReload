@@ -3,7 +3,7 @@ LiveReload
 
 ##Instalando
 1. Copiar o LiveReload para a pasta Aplicativos
-2. Instalar a extensão LiveReload no navegador (Firefox e Chrome)
+2. Instalar a extensão LiveReload no navegador (Chrome e Firefox)
 
 ##Utilizando
 1. Abrir o LiveReload
